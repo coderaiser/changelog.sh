@@ -22,7 +22,7 @@ tag would be got log to screen.
 ## Usage
 
 ```sh
-$ changelog <tag> ChangeLog
+$ changelog <tag>
 ```
 
 ## License
