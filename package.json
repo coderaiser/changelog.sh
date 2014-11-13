@@ -1,0 +1,8 @@
+{
+  "name": "changelog",
+  "version": "0.1.0",
+  "description": "Generate changelog",
+  "global": "true",
+  "install": "make install",
+  "scripts": [ "changelog.sh" ]
+}
